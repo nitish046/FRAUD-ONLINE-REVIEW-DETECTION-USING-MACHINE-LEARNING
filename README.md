@@ -48,4 +48,9 @@ Ensure that the following dependencies are installed to run the fraud detection 
 - NLTK
 - Pandas
 - NumPy
+- Pickle-mixin
+- Matplotlib
+- Seaborn
+
+
 
